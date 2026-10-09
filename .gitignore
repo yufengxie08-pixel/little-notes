@@ -1,0 +1,6 @@
+**/tasks.json
+**/selftest-data/
+**/selftest-webview/
+**/electron-selftest-*
+**/小贴事.exe
+*.zip

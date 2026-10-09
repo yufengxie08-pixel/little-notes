@@ -1,0 +1,9 @@
+{
+  "name": "little-notes",
+  "productName": "小贴事",
+  "version": "1.0.0",
+  "private": true,
+  "description": "暖色手写本地任务备忘录",
+  "main": "main.js",
+  "license": "UNLICENSED"
+}
